@@ -4,4 +4,4 @@
 *.log
 *.bak
 .ipynb_checkpoints
-
+.gitignore

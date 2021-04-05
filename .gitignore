@@ -1,0 +1,7 @@
+## NESOY Ignore File ##
+
+*.txt
+*.log
+*.bak
+.ipynb_checkpoints
+
